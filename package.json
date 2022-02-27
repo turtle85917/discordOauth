@@ -1,0 +1,14 @@
+{
+  "name": "discordoauth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chidume <kurtwanger40@gmail.com> (http://twitter.com/ngArchangel)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
